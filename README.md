@@ -1,6 +1,6 @@
 [SPRING_BADGE]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [JAVA_BADGE]:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-<h1 align="center" style="font-weight: bold;">📦 User Registration Validation</h1>
+<h1 align="center" style="font-weight: bold;">👮 User Registration Validation</h1>
 <div align="center">
   
 ![spring][SPRING_BADGE]
