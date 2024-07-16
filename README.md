@@ -17,6 +17,10 @@
 </p>
 <h2 id="about">About this project</h2>
 <p>I created two microservices and comunicated them with RabbitMQ for when a new user is create, a email is send to validation this new register with a link to confirm this one. After that, a welcome email is send.</p>
+<h2 id="about">Microservices</h2>
+<p><a href="https://github.com/Venicode/ms-user">User service</a></p>
+<p><a href="https://github.com/Venicode/ms-email">Email service</a></p>
+
 <h2 id="diagram">Diagram</h2>
 <div align="center">
   
