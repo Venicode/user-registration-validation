@@ -5,16 +5,13 @@
   
 ![spring][SPRING_BADGE]
 ![java][JAVA_BADGE]
-<img src="https://img.shields.io/badge/H2 Database-darkblue?style=for-the-badge&logo=java">
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  <img src="https://img.shields.io/badge/Version 1.0-gray?style=for-the-badge&logo=java">
 </div>
-<p align="center">
-<a href="#about">About</a> • 
-<a href="#diagram">Diagram</a>
-</p>
+
 <p align="center">
   <b>This is a project to communicate two micro services using RabbitMQ (ms-user and ms-email).</b>
 </p>
